@@ -1,0 +1,19 @@
+{
+  "repo": "https://github.com/AI-Chandigarh/ai-community-chandigarh-website",
+
+  "owner": {
+    "username": "mlchandigarh",
+    "email": "tfugchd@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "chandigarh", 
+       "value": "8c72e9a37f0252f5.vercel-dns-017.com."
+     }
+  },
+
+  "proxied": false
+
+}
+
